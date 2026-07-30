@@ -1,0 +1,4 @@
+interface:
+  display_name: "即梦视频提示词"
+  short_description: "将创意或参考图转成可控、稳定、易执行的即梦视频提示词"
+  default_prompt: "Use $jimeng-video-prompt to turn my video idea into a controllable Chinese prompt."

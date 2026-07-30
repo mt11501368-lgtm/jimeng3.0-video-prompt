@@ -85,6 +85,7 @@ Preserve identity, spatial relationships, lighting logic, and motion direction u
 - For beauty, describe observable image properties rather than only “高级感”: color palette, light direction, contrast, texture, depth, lens character, and atmosphere.
 
 Read [references/patterns.md](references/patterns.md) when the request needs detailed templates, diagnosis, or variants.
+Read [references/examples.md](references/examples.md) when the user wants finished examples, short-drama shot lists, or before/after prompt rewrites.
 
 ## Reliability checks
 
